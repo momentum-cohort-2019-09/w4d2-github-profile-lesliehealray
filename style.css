@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 5;
+  }
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#container{
+   display: flexbox;
+   margin: auto;
+   margin-top: 5%;
+   border: 1px solid yellow;
+   width: 50%;
+   text-align: center;
+}
+
+ul#films {
+    list-style-type: none;
+    padding: 5%;
+}
+
+p#featured {
+    padding-top: 10%;
+}
+
+
+
+
